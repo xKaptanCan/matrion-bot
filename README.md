@@ -2,7 +2,7 @@
 ### Değerli müşterilerimize gizlilik politikası sayfamızı okudukları için teşekkür ederiz. Müşterilerimize, kişisel verilerinin ve bilgilerinin sitemizde tamamen güvende olacağını garanti ediyoruz, çünkü bu verilerin korunmasından biz sorumluyuz ve bunları korumak için her yolu arıyoruz. Gizlilik politikası sayfamız aşağıdaki gibi bazı öğeleri içerir.
 
 ## Verilerimi nasıl sildirebilirim, geliştirici ile nasıl iletişime geçebilirim?
-### Discord üzerinden Aeklink#7113 isimli geliştiriciye ulaşarak verilerinizi sildirebilirsiniz (karaliste hariç).
+### Discord üzerinden Mrtol#1453 isimli geliştiriciye ulaşarak verilerinizi sildirebilirsiniz (karaliste hariç).
 
 ## Bütün verileri siliyormusunuz?
 ### Karaliste hariç bütün verilerinizi silebiliriz.
